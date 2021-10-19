@@ -14,7 +14,10 @@ Express Framework is used
 
 ### Dependencies
 
--> Express
--> Axios
--> Cheerio
--> Nodemon
+#### -> Express
+
+#### -> Axios
+
+#### -> Cheerio
+
+#### -> Nodemon
